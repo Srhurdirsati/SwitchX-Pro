@@ -47,8 +47,6 @@ All set , you are now connected to SwitchX-Pro and can operate it and perform al
 
 ## Images
 
-<img width="711" height="605" alt="1773940464154-86s667" src="https://github.com/user-attachments/assets/aa1920f0-1b3d-4e8e-bf3f-a387235c9259" />
-
 ![SwitchX-Pro](https://github.com/user-attachments/assets/3e7c3c76-9690-4751-abf3-cbdbec2dc1ba)
 
 <img width="1369" height="527" alt="1773955277817-ucqhdg" src="https://github.com/user-attachments/assets/e49e62cf-51b6-4f32-82d6-846090fb0fc7" />
