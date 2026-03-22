@@ -2,9 +2,6 @@
 
 SwitchX Pro is a 6-channel WiFi smart switch system with real-time clock automation, allowing precise control of home appliances anytime, anywhere.
 
-## BOM
-
-Refer to bom.csv in main repo.
 
 ## Working
 
@@ -28,7 +25,7 @@ Refer to bom.csv in main repo.
 
 3 - *Connect the  main AC phase wire to AC slot and the 6 Appliances or switches wire ( That are needed to be operated with this PCB ) to the OUT 1-6 slots .*
 
-4 - *Now the PCB is completely set up and would function great if everything goes as exepected* :) 
+4 - *Now the PCB is completely set up and would function great if everything goes as expected* :) 
 
 5 - *Find your ESP-32 ip address by Arduino IDE serial monitor* .
 
