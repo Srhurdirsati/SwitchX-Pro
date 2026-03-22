@@ -1,0 +1,5 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB ( With Shipping )","Main Circuit Board",1,111.00,"https://jlcpcb.com/","JLCPCB"
+"Fuse","Protection",1,1.50,"https://amzn.in/d/07zQDgqd","Amazon"
+"CR2032","Battery For DS3213 Module ",1,1.00,"https://amzn.in/d/00KQnl0y","Amazon"
+"ESP32-WROOM-32","Microcontroller",1,5.90,"https://amzn.in/d/030cIzCR","Amazon"
